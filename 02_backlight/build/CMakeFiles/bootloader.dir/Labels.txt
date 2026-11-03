@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/nvnha/Desktop/Program/esp32/example/ESP32-S3-Touch-LCD-1.83/examples/esp-idf/01_AXP2101/build/CMakeFiles/bootloader
+C:/Users/nvnha/Desktop/Program/esp32/example/ESP32-S3-Touch-LCD-1.83/examples/esp-idf/01_AXP2101/build/CMakeFiles/bootloader.rule
+C:/Users/nvnha/Desktop/Program/esp32/example/ESP32-S3-Touch-LCD-1.83/examples/esp-idf/01_AXP2101/build/CMakeFiles/bootloader-complete.rule
+C:/Users/nvnha/Desktop/Program/esp32/example/ESP32-S3-Touch-LCD-1.83/examples/esp-idf/01_AXP2101/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/nvnha/Desktop/Program/esp32/example/ESP32-S3-Touch-LCD-1.83/examples/esp-idf/01_AXP2101/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/nvnha/Desktop/Program/esp32/example/ESP32-S3-Touch-LCD-1.83/examples/esp-idf/01_AXP2101/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/nvnha/Desktop/Program/esp32/example/ESP32-S3-Touch-LCD-1.83/examples/esp-idf/01_AXP2101/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/nvnha/Desktop/Program/esp32/example/ESP32-S3-Touch-LCD-1.83/examples/esp-idf/01_AXP2101/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/nvnha/Desktop/Program/esp32/example/ESP32-S3-Touch-LCD-1.83/examples/esp-idf/01_AXP2101/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/nvnha/Desktop/Program/esp32/example/ESP32-S3-Touch-LCD-1.83/examples/esp-idf/01_AXP2101/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
